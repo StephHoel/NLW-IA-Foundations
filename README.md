@@ -15,8 +15,8 @@ Siga estas etapas para executar o projeto em seu ambiente local.
 #### Passo 1: Clone o Repositório
 
 ```bash
-git clone https://github.com/StephHoel/NLW-IA-FOUNDATIONS.git
-cd NLW-IA-FOUNDATIONS
+git clone https://github.com/StephHoel/NLW-IA-Foundations.git
+cd NLW-IA-Foundations
 ```
 
 #### Passo 2: Instale as Dependências
@@ -100,4 +100,4 @@ Agradecemos antecipadamente por sua contribuição e esperamos trabalhar com voc
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](https://github.com/StephHoel/NLW-IA-FOUNDATIONS/blob/main/license).
+Este projeto está licenciado sob a [Licença MIT](https://github.com/StephHoel/NLW-IA-Foundations/blob/main/LICENSE).
